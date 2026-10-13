@@ -9,7 +9,7 @@ My main tech stack includes **Java, SQL, HTML, CSS, and JavaScript**. I'm also e
 
 I'm constantly learning, experimenting with new ideas, and looking for opportunities to build useful things.
 
-My goal is to become a versatile software engineer, keep pushing my limits, and create projects that make a difference.
+My goal is to become a versatile programmer, keep pushing my limits, and create projects that make a difference.
 
 ### Interest Facts:
 
