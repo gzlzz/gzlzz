@@ -1,10 +1,5 @@
-## Hi there 👋
-### Hey there! 👨‍💻
+## Hi there 👋👨‍💻
 
-🔭 I’m currently working on some solo projects that will be posted here!
-🌱 I’m currently learning new different programming languages
-👯 I’m looking to collaborate on startups
-I'm Mario, a software development student based in Spain.
 
 I'm currently studying **Multiplatform Application Development (DAM)**, exploring different technologies and building projects to improve my skills as a developer.
 
@@ -20,7 +15,7 @@ My goal is to become a versatile software engineer, keep pushing my limits, and 
 
 - 🎓 2nd-year DAM student
 - 💻 I enjoy coding and building new projects
-- 🤖 Interested in AI, automation, and emerging technologies
+- 🔭 I’m currently working on some solo projects that will be posted here!
 - 🚀 Always learning something new
 - 🎯 Focused on growing as a developer, one project at a time
 
