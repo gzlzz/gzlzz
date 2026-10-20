@@ -3,11 +3,7 @@
 
 I'm currently studying **Multiplatform Application Development (DAM)**, exploring different technologies and building projects to improve my skills as a developer.
 
-I enjoy turning ideas into working applications and figuring out how things work behind the scenes.
-
-My main tech stack includes **Java, SQL, HTML, CSS, and JavaScript**. I'm also exploring new technologies, with a growing interest in **Artificial Intelligence**.
-
-I'm constantly learning, experimenting with new ideas, and looking for opportunities to build useful things.
+I enjoy turning ideas into working applications and figuring out how things work behind the scenes. I'm constantly learning, experimenting with new ideas, and looking for opportunities to build useful things.
 
 My goal is to become a versatile programmer, keep pushing my limits, and create projects that make a difference.
 
